@@ -9,6 +9,8 @@ The data was scraped from the NHL play-by-play api. The data was then pared down
 
 ## Future Work
 
+There is some future work planned. Future updates include the ability to compare two teams and the ability to compare two individual goaltenders.
+
 
 
 https://public.tableau.com/app/profile/neha.korrapati/viz/NHLTeamShotsAllowed/Dashboard1
